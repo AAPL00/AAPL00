@@ -11,10 +11,11 @@ I'm a **Computer Science** student passionate about software development and ope
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAPL00&layout=compact&theme=default)
 ---
 #### Studying on these platforms
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAPL00&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAPL00&layout=compact&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAPL00&theme=default)](https://git.io/streak-stats)
 
 ![](https://leetcard.jacoblin.cool/AAPL00?ext=heatmap)
