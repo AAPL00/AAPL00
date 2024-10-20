@@ -16,4 +16,4 @@ I'm a **Computer Science** student passionate about software development and ope
 ![](https://leetcard.jacoblin.cool/AAPL00?ext=heatmap)
 <!--img src="https://leetcode-badge-showcase.vercel.app/api?username={AAPL00}&animated=true" alt="LeetCode Badges"/-->
 
-<!--![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/stats/your_username)-->
+![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/stats/AAPL00)
