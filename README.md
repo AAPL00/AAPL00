@@ -15,6 +15,7 @@ I'm a **Computer Science** student passionate about software development and ope
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAPL00&layout=compact&theme=default)
 ---
 #### Studying on these platforms
+[![trophy](https://github-profile-trophy.vercel.app/?username=AAPL00)](https://github.com/ryo-ma/github-profile-trophy)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAPL00&show_icons=true&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAPL00&theme=default)](https://git.io/streak-stats)
 
