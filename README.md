@@ -11,4 +11,4 @@ I'm a **Computer Science** student passionate about software development and ope
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 #### Studying on these platforms
-![Leetcode Stats](https://leetcard.jacoblin.cool/AAPL00)
+![](https://leetcard.jacoblin.cool/AAPL00?ext=heatmap)
