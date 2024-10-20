@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy [Tu AAPL00]
+### ¡Hola! 👋 Soy [AAPL00]
 
 Soy estudiante de **Ciencias de la Computación** con interés en el desarrollo de software y tecnologías de código abierto. Actualmente, estoy enfocado en las siguientes tecnologías:
 
