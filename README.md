@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm [AAPL00]
 
-I'm a **Computer Science** student passionate about software development and open-source technologies. I'm currently focusing on the following technologies and platforms:
+I'm a **Computer Science** student passionate about software development and open-source technologies. I'm currently focusing on the following technologies:
 
 ---
 
