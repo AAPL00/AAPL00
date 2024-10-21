@@ -15,11 +15,12 @@ I'm a **Computer Science** student passionate about software development and ope
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAPL00&layout=compact&theme=default)
 ---
 #### Studying on these platforms
-[![trophy](https://github-profile-trophy.vercel.app/?username=AAPL00)](https://github.com/ryo-ma/github-profile-trophy)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAPL00&show_icons=true&theme=default)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAPL00&theme=default)](https://git.io/streak-stats)
-
 ![](https://leetcard.jacoblin.cool/AAPL00?ext=heatmap)
 <!--img src="https://leetcode-badge-showcase.vercel.app/api?username={AAPL00}&animated=true" alt="LeetCode Badges"/-->
 
 <!--![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/stats/AAPL00)-->
+
+### Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=AAPL00)](https://github.com/ryo-ma/github-profile-trophy)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAPL00&show_icons=true&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAPL00&theme=default)](https://git.io/streak-stats)
