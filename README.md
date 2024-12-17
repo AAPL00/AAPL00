@@ -2,7 +2,7 @@
 
 I'm a **Computer Science** student passionate about software development and open-source technologies. I'm currently focusing on the following technologies:
 ---
-#### 🔧 Technologies I'm learning:
+#### 🔧 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
